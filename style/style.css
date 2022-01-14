@@ -75,7 +75,7 @@ hr{
     text-decoration: none;
     color: mintcream;
     background-color: #f368e0;
-    padding: 10px 30px;
+    padding: 0 30px;
     border-radius: 30px;
     font-weight: bold;
     display: inline-block;
@@ -191,7 +191,7 @@ hr{
     color: #f368e0;
     font-weight: bold;
     font-size: 20px;
-    padding: 0 40px;
+    padding: 15px 40px;
     margin-right: 15px;
     border-radius: 40px;
     
