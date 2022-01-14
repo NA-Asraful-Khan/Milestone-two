@@ -75,7 +75,7 @@ hr{
     text-decoration: none;
     color: mintcream;
     background-color: #f368e0;
-    padding: 0 30px;
+    padding: 10px 30px;
     border-radius: 30px;
     font-weight: bold;
     display: inline-block;
@@ -87,7 +87,7 @@ hr{
 }
 
 .journey-left>a:hover{
-    padding: 15px 40px;
+    padding: 10px 40px;
 
     
 }
