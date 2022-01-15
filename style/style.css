@@ -242,6 +242,11 @@ input[type=text],input[type=email],input[type=password],fieldset, select,textare
       margin-bottom: 10px;
   }
 
+ .terms{
+      text-decoration: none;
+      color: #ee51d9;
+  }
+
   textarea{
       display: block;
       width: 100%;
