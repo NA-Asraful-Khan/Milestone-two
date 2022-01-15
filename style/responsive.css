@@ -31,7 +31,7 @@
        /* popular section  */
 
     .collection{
-        text-align: center;
+        
         grid-template-columns: repeat(1, 1fr);
         
     }   
