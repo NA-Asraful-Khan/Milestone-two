@@ -211,6 +211,10 @@ hr{
 
 /* Contact  */
 
+.contact{
+    margin-bottom: 40px;
+}
+
 .contact h2{
     text-align: center;
 }
